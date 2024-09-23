@@ -1,2 +1,2 @@
 # final-RAG-Chatbot
-Running Awesome.
+Running Properly.
