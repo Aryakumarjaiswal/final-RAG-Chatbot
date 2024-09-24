@@ -64,7 +64,7 @@ multidict==6.1.0
 numpy==1.26.4
 oauthlib==3.2.2
 onnxruntime==1.19.2
-
+python==3.10
 pure_eval==0.2.3
 pyarrow==17.0.0
 pyasn1==0.6.1
